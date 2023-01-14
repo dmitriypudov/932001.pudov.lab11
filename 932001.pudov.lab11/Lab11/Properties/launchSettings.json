@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "Lab11": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "remoteDebugEnabled": false,
+      "applicationUrl": "http://localhost:5000"
+    }
+  }
+}

@@ -1,0 +1,122 @@
+C:\Users\Helga\Desktop\лабы\Вебы\web1\Lab1\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Helga\Desktop\лабы\Вебы\web1\Lab1\bin\Debug\net5.0\appsettings.json
+C:\Users\Helga\Desktop\лабы\Вебы\web1\Lab1\bin\Debug\net5.0\Lab1.exe
+C:\Users\Helga\Desktop\лабы\Вебы\web1\Lab1\bin\Debug\net5.0\Lab1.deps.json
+C:\Users\Helga\Desktop\лабы\Вебы\web1\Lab1\bin\Debug\net5.0\Lab1.runtimeconfig.json
+C:\Users\Helga\Desktop\лабы\Вебы\web1\Lab1\bin\Debug\net5.0\Lab1.runtimeconfig.dev.json
+C:\Users\Helga\Desktop\лабы\Вебы\web1\Lab1\bin\Debug\net5.0\Lab1.dll
+C:\Users\Helga\Desktop\лабы\Вебы\web1\Lab1\bin\Debug\net5.0\Lab1.pdb
+C:\Users\Helga\Desktop\лабы\Вебы\web1\Lab1\bin\Debug\net5.0\Lab1.Views.dll
+C:\Users\Helga\Desktop\лабы\Вебы\web1\Lab1\bin\Debug\net5.0\Lab1.Views.pdb
+C:\Users\Helga\Desktop\лабы\Вебы\web1\Lab1\obj\Debug\net5.0\Lab1.csproj.AssemblyReference.cache
+C:\Users\Helga\Desktop\лабы\Вебы\web1\Lab1\obj\Debug\net5.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Helga\Desktop\лабы\Вебы\web1\Lab1\obj\Debug\net5.0\Lab1.AssemblyInfoInputs.cache
+C:\Users\Helga\Desktop\лабы\Вебы\web1\Lab1\obj\Debug\net5.0\Lab1.AssemblyInfo.cs
+C:\Users\Helga\Desktop\лабы\Вебы\web1\Lab1\obj\Debug\net5.0\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\Helga\Desktop\лабы\Вебы\web1\Lab1\obj\Debug\net5.0\Lab1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Helga\Desktop\лабы\Вебы\web1\Lab1\obj\Debug\net5.0\Lab1.RazorAssemblyInfo.cache
+C:\Users\Helga\Desktop\лабы\Вебы\web1\Lab1\obj\Debug\net5.0\Lab1.RazorAssemblyInfo.cs
+C:\Users\Helga\Desktop\лабы\Вебы\web1\Lab1\obj\Debug\net5.0\scopedcss\bundle\Lab1.styles.css
+C:\Users\Helga\Desktop\лабы\Вебы\web1\Lab1\obj\Debug\net5.0\staticwebassets\Lab1.StaticWebAssets.Manifest.cache
+C:\Users\Helga\Desktop\лабы\Вебы\web1\Lab1\obj\Debug\net5.0\Lab1.TagHelpers.input.cache
+C:\Users\Helga\Desktop\лабы\Вебы\web1\Lab1\obj\Debug\net5.0\Lab1.TagHelpers.output.cache
+C:\Users\Helga\Desktop\лабы\Вебы\web1\Lab1\obj\Debug\net5.0\Lab1.RazorCoreGenerate.cache
+C:\Users\Helga\Desktop\лабы\Вебы\web1\Lab1\obj\Debug\net5.0\Razor\Views\CalcService\AccessServiceDirectly.cshtml.g.cs
+C:\Users\Helga\Desktop\лабы\Вебы\web1\Lab1\obj\Debug\net5.0\Razor\Views\CalcService\Index.cshtml.g.cs
+C:\Users\Helga\Desktop\лабы\Вебы\web1\Lab1\obj\Debug\net5.0\Razor\Views\CalcService\PassUsingModel.cshtml.g.cs
+C:\Users\Helga\Desktop\лабы\Вебы\web1\Lab1\obj\Debug\net5.0\Razor\Views\CalcService\PassUsingViewBag.cshtml.g.cs
+C:\Users\Helga\Desktop\лабы\Вебы\web1\Lab1\obj\Debug\net5.0\Razor\Views\CalcService\PassUsingViewData.cshtml.g.cs
+C:\Users\Helga\Desktop\лабы\Вебы\web1\Lab1\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Helga\Desktop\лабы\Вебы\web1\Lab1\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Helga\Desktop\лабы\Вебы\web1\Lab1\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Helga\Desktop\лабы\Вебы\web1\Lab1\obj\Debug\net5.0\Lab1.RazorTargetAssemblyInfo.cache
+C:\Users\Helga\Desktop\лабы\Вебы\web1\Lab1\obj\Debug\net5.0\Lab1.RazorTargetAssemblyInfo.cs
+C:\Users\Helga\Desktop\лабы\Вебы\web1\Lab1\obj\Debug\net5.0\Lab1.Views.pdb
+C:\Users\Helga\Desktop\лабы\Вебы\web1\Lab1\obj\Debug\net5.0\Lab1.dll
+C:\Users\Helga\Desktop\лабы\Вебы\web1\Lab1\obj\Debug\net5.0\refint\Lab1.dll
+C:\Users\Helga\Desktop\лабы\Вебы\web1\Lab1\obj\Debug\net5.0\Lab1.pdb
+C:\Users\Helga\Desktop\лабы\Вебы\web1\Lab1\obj\Debug\net5.0\Lab1.genruntimeconfig.cache
+C:\Users\Helga\Desktop\лабы\Вебы\web1\Lab1\obj\Debug\net5.0\ref\Lab1.dll
+C:\Users\Helga\Desktop\лабы\Вебы\web1\Lab1\obj\Debug\net5.0\Lab1.csproj.CopyComplete
+C:\Users\chaly\OneDrive\Рабочий стол\лаба 1\Lab1\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\chaly\OneDrive\Рабочий стол\лаба 1\Lab1\bin\Debug\net5.0\appsettings.json
+C:\Users\chaly\OneDrive\Рабочий стол\лаба 1\Lab1\bin\Debug\net5.0\Lab1.exe
+C:\Users\chaly\OneDrive\Рабочий стол\лаба 1\Lab1\bin\Debug\net5.0\Lab1.deps.json
+C:\Users\chaly\OneDrive\Рабочий стол\лаба 1\Lab1\bin\Debug\net5.0\Lab1.runtimeconfig.json
+C:\Users\chaly\OneDrive\Рабочий стол\лаба 1\Lab1\bin\Debug\net5.0\Lab1.runtimeconfig.dev.json
+C:\Users\chaly\OneDrive\Рабочий стол\лаба 1\Lab1\bin\Debug\net5.0\Lab1.dll
+C:\Users\chaly\OneDrive\Рабочий стол\лаба 1\Lab1\bin\Debug\net5.0\ref\Lab1.dll
+C:\Users\chaly\OneDrive\Рабочий стол\лаба 1\Lab1\bin\Debug\net5.0\Lab1.pdb
+C:\Users\chaly\OneDrive\Рабочий стол\лаба 1\Lab1\bin\Debug\net5.0\Lab1.Views.dll
+C:\Users\chaly\OneDrive\Рабочий стол\лаба 1\Lab1\bin\Debug\net5.0\Lab1.Views.pdb
+C:\Users\chaly\OneDrive\Рабочий стол\лаба 1\Lab1\obj\Debug\net5.0\Lab1.csproj.AssemblyReference.cache
+C:\Users\chaly\OneDrive\Рабочий стол\лаба 1\Lab1\obj\Debug\net5.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chaly\OneDrive\Рабочий стол\лаба 1\Lab1\obj\Debug\net5.0\Lab1.AssemblyInfoInputs.cache
+C:\Users\chaly\OneDrive\Рабочий стол\лаба 1\Lab1\obj\Debug\net5.0\Lab1.AssemblyInfo.cs
+C:\Users\chaly\OneDrive\Рабочий стол\лаба 1\Lab1\obj\Debug\net5.0\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\chaly\OneDrive\Рабочий стол\лаба 1\Lab1\obj\Debug\net5.0\Lab1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\chaly\OneDrive\Рабочий стол\лаба 1\Lab1\obj\Debug\net5.0\Lab1.RazorAssemblyInfo.cache
+C:\Users\chaly\OneDrive\Рабочий стол\лаба 1\Lab1\obj\Debug\net5.0\Lab1.RazorAssemblyInfo.cs
+C:\Users\chaly\OneDrive\Рабочий стол\лаба 1\Lab1\obj\Debug\net5.0\staticwebassets\Lab1.StaticWebAssets.Manifest.cache
+C:\Users\chaly\OneDrive\Рабочий стол\лаба 1\Lab1\obj\Debug\net5.0\staticwebassets\Lab1.StaticWebAssets.xml
+C:\Users\chaly\OneDrive\Рабочий стол\лаба 1\Lab1\obj\Debug\net5.0\scopedcss\bundle\Lab1.styles.css
+C:\Users\chaly\OneDrive\Рабочий стол\лаба 1\Lab1\obj\Debug\net5.0\Lab1.TagHelpers.input.cache
+C:\Users\chaly\OneDrive\Рабочий стол\лаба 1\Lab1\obj\Debug\net5.0\Lab1.TagHelpers.output.cache
+C:\Users\chaly\OneDrive\Рабочий стол\лаба 1\Lab1\obj\Debug\net5.0\Lab1.RazorCoreGenerate.cache
+C:\Users\chaly\OneDrive\Рабочий стол\лаба 1\Lab1\obj\Debug\net5.0\Razor\Views\CalcService\AccessServiceDirectly.cshtml.g.cs
+C:\Users\chaly\OneDrive\Рабочий стол\лаба 1\Lab1\obj\Debug\net5.0\Razor\Views\CalcService\Index.cshtml.g.cs
+C:\Users\chaly\OneDrive\Рабочий стол\лаба 1\Lab1\obj\Debug\net5.0\Razor\Views\CalcService\PassUsingModel.cshtml.g.cs
+C:\Users\chaly\OneDrive\Рабочий стол\лаба 1\Lab1\obj\Debug\net5.0\Razor\Views\CalcService\PassUsingViewBag.cshtml.g.cs
+C:\Users\chaly\OneDrive\Рабочий стол\лаба 1\Lab1\obj\Debug\net5.0\Razor\Views\CalcService\PassUsingViewData.cshtml.g.cs
+C:\Users\chaly\OneDrive\Рабочий стол\лаба 1\Lab1\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\chaly\OneDrive\Рабочий стол\лаба 1\Lab1\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\chaly\OneDrive\Рабочий стол\лаба 1\Lab1\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\chaly\OneDrive\Рабочий стол\лаба 1\Lab1\obj\Debug\net5.0\Lab1.RazorTargetAssemblyInfo.cache
+C:\Users\chaly\OneDrive\Рабочий стол\лаба 1\Lab1\obj\Debug\net5.0\Lab1.RazorTargetAssemblyInfo.cs
+C:\Users\chaly\OneDrive\Рабочий стол\лаба 1\Lab1\obj\Debug\net5.0\Lab1.Views.pdb
+C:\Users\chaly\OneDrive\Рабочий стол\лаба 1\Lab1\obj\Debug\net5.0\Lab1.dll
+C:\Users\chaly\OneDrive\Рабочий стол\лаба 1\Lab1\obj\Debug\net5.0\ref\Lab1.dll
+C:\Users\chaly\OneDrive\Рабочий стол\лаба 1\Lab1\obj\Debug\net5.0\Lab1.pdb
+C:\Users\chaly\OneDrive\Рабочий стол\лаба 1\Lab1\obj\Debug\net5.0\Lab1.genruntimeconfig.cache
+C:\Users\chaly\OneDrive\Рабочий стол\лаба 1\Lab1\obj\Debug\net5.0\Lab1.csproj.CopyComplete
+C:\Users\User\Desktop\3 курс\1 семестр\работы\web-технологии\лаба11\Lab1\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\User\Desktop\3 курс\1 семестр\работы\web-технологии\лаба11\Lab1\bin\Debug\net5.0\appsettings.json
+C:\Users\User\Desktop\3 курс\1 семестр\работы\web-технологии\лаба11\Lab1\bin\Debug\net5.0\Lab1.exe
+C:\Users\User\Desktop\3 курс\1 семестр\работы\web-технологии\лаба11\Lab1\bin\Debug\net5.0\Lab1.deps.json
+C:\Users\User\Desktop\3 курс\1 семестр\работы\web-технологии\лаба11\Lab1\bin\Debug\net5.0\Lab1.runtimeconfig.json
+C:\Users\User\Desktop\3 курс\1 семестр\работы\web-технологии\лаба11\Lab1\bin\Debug\net5.0\Lab1.runtimeconfig.dev.json
+C:\Users\User\Desktop\3 курс\1 семестр\работы\web-технологии\лаба11\Lab1\bin\Debug\net5.0\Lab1.dll
+C:\Users\User\Desktop\3 курс\1 семестр\работы\web-технологии\лаба11\Lab1\bin\Debug\net5.0\ref\Lab1.dll
+C:\Users\User\Desktop\3 курс\1 семестр\работы\web-технологии\лаба11\Lab1\bin\Debug\net5.0\Lab1.pdb
+C:\Users\User\Desktop\3 курс\1 семестр\работы\web-технологии\лаба11\Lab1\bin\Debug\net5.0\Lab1.Views.dll
+C:\Users\User\Desktop\3 курс\1 семестр\работы\web-технологии\лаба11\Lab1\bin\Debug\net5.0\Lab1.Views.pdb
+C:\Users\User\Desktop\3 курс\1 семестр\работы\web-технологии\лаба11\Lab1\obj\Debug\net5.0\Lab1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\3 курс\1 семестр\работы\web-технологии\лаба11\Lab1\obj\Debug\net5.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\3 курс\1 семестр\работы\web-технологии\лаба11\Lab1\obj\Debug\net5.0\Lab1.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\3 курс\1 семестр\работы\web-технологии\лаба11\Lab1\obj\Debug\net5.0\Lab1.AssemblyInfo.cs
+C:\Users\User\Desktop\3 курс\1 семестр\работы\web-технологии\лаба11\Lab1\obj\Debug\net5.0\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\3 курс\1 семестр\работы\web-технологии\лаба11\Lab1\obj\Debug\net5.0\Lab1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\3 курс\1 семестр\работы\web-технологии\лаба11\Lab1\obj\Debug\net5.0\Lab1.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\3 курс\1 семестр\работы\web-технологии\лаба11\Lab1\obj\Debug\net5.0\Lab1.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\3 курс\1 семестр\работы\web-технологии\лаба11\Lab1\obj\Debug\net5.0\staticwebassets\Lab1.StaticWebAssets.Manifest.cache
+C:\Users\User\Desktop\3 курс\1 семестр\работы\web-технологии\лаба11\Lab1\obj\Debug\net5.0\staticwebassets\Lab1.StaticWebAssets.xml
+C:\Users\User\Desktop\3 курс\1 семестр\работы\web-технологии\лаба11\Lab1\obj\Debug\net5.0\scopedcss\bundle\Lab1.styles.css
+C:\Users\User\Desktop\3 курс\1 семестр\работы\web-технологии\лаба11\Lab1\obj\Debug\net5.0\Lab1.TagHelpers.input.cache
+C:\Users\User\Desktop\3 курс\1 семестр\работы\web-технологии\лаба11\Lab1\obj\Debug\net5.0\Lab1.TagHelpers.output.cache
+C:\Users\User\Desktop\3 курс\1 семестр\работы\web-технологии\лаба11\Lab1\obj\Debug\net5.0\Lab1.RazorCoreGenerate.cache
+C:\Users\User\Desktop\3 курс\1 семестр\работы\web-технологии\лаба11\Lab1\obj\Debug\net5.0\Razor\Views\CalcService\AccessServiceDirectly.cshtml.g.cs
+C:\Users\User\Desktop\3 курс\1 семестр\работы\web-технологии\лаба11\Lab1\obj\Debug\net5.0\Razor\Views\CalcService\Index.cshtml.g.cs
+C:\Users\User\Desktop\3 курс\1 семестр\работы\web-технологии\лаба11\Lab1\obj\Debug\net5.0\Razor\Views\CalcService\PassUsingModel.cshtml.g.cs
+C:\Users\User\Desktop\3 курс\1 семестр\работы\web-технологии\лаба11\Lab1\obj\Debug\net5.0\Razor\Views\CalcService\PassUsingViewBag.cshtml.g.cs
+C:\Users\User\Desktop\3 курс\1 семестр\работы\web-технологии\лаба11\Lab1\obj\Debug\net5.0\Razor\Views\CalcService\PassUsingViewData.cshtml.g.cs
+C:\Users\User\Desktop\3 курс\1 семестр\работы\web-технологии\лаба11\Lab1\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User\Desktop\3 курс\1 семестр\работы\web-технологии\лаба11\Lab1\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\Desktop\3 курс\1 семестр\работы\web-технологии\лаба11\Lab1\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\User\Desktop\3 курс\1 семестр\работы\web-технологии\лаба11\Lab1\obj\Debug\net5.0\Lab1.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\3 курс\1 семестр\работы\web-технологии\лаба11\Lab1\obj\Debug\net5.0\Lab1.RazorTargetAssemblyInfo.cs
+C:\Users\User\Desktop\3 курс\1 семестр\работы\web-технологии\лаба11\Lab1\obj\Debug\net5.0\Lab1.Views.pdb
+C:\Users\User\Desktop\3 курс\1 семестр\работы\web-технологии\лаба11\Lab1\obj\Debug\net5.0\Lab1.dll
+C:\Users\User\Desktop\3 курс\1 семестр\работы\web-технологии\лаба11\Lab1\obj\Debug\net5.0\ref\Lab1.dll
+C:\Users\User\Desktop\3 курс\1 семестр\работы\web-технологии\лаба11\Lab1\obj\Debug\net5.0\Lab1.pdb
+C:\Users\User\Desktop\3 курс\1 семестр\работы\web-технологии\лаба11\Lab1\obj\Debug\net5.0\Lab1.genruntimeconfig.cache
+C:\Users\User\Desktop\3 курс\1 семестр\работы\web-технологии\лаба11\Lab1\obj\Debug\net5.0\Lab1.csproj.CopyComplete
